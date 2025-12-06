@@ -1,0 +1,2 @@
+# mynewrep
+Connecting to git
